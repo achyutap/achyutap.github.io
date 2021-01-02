@@ -5,7 +5,7 @@ date: 2020-12-26 13:22:00 +0530
 categories: [C-programing, Programming Languages]
 tags: [basic-c,data-types]
 math: true
-pin: false
+pin: true
 ---
 
 Hello there I am Achyuta, today we are talking about **C programing language**. This is the first part of *c*.
@@ -48,7 +48,7 @@ main()
 
 }
 ```
-## Explaenation 
+## Explanation 
 `# include <stdio.h>` :  
 `# include` includes the given library in `<>`.You can include infinite librarys.But one after one.  
 `stdio.h` is a library of c.The full form is `standrd input output`.  
