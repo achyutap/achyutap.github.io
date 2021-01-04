@@ -40,3 +40,5 @@ In python 3.8 it is going to work, what it does is create a simple window of tki
 
 This is all in this blog.   
 In next blog on this section we are doing something for our calculator app.  
+
+*If you want to see all blog posts on this section goto categories and open Calculator category in Tkinter category.*
