@@ -31,7 +31,7 @@ Once parsed, Jekyll stores the result in a self-contained static _site folder. T
 
 You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags on each request, Jekyll does this once beforehand and caches the entire website in a folder for serving statically.
 
-If you want to make your own jekyll site then go ahead and make it here [Make your jekyll site]({% link _posts/2020-12-28-website.md %})
+If you want to make your own jekyll site then go ahead and make it here [Make your jekyll site]({% link _posts/2020-12-12-website.md %})
 
 
 
