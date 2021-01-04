@@ -1,7 +1,7 @@
 ---
 title: Data Types of JavaScript
 author: Achyuta Pataki
-date: 2021-1-2 00:00:00 +530
+date: 2020-12-31 00:00:00 +530
 categories: [Javascript, Frontend language]
 tags: [data-types,booleans,strings,number]
 math: true

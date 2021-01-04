@@ -1,7 +1,7 @@
 ---
 title: Python calculator with Tkinter 1
-date: 2020-01-03 10:10:10 +530
-categories: [Tkinter, Python]
+date: 2021-01-03 10:10:10 +530
+categories: [Tkinter, Calculator]
 tags: [ui, tkinter]
 image: 
 ---
@@ -25,5 +25,18 @@ window = tk.Tk()
 tk.mainloop()
 ```
 
+* The basic tkinter code should always be written like this.
+* This is the preprosser directive of tkinter.
+
+
+
 In python 3.8 it is going to work, what it does is create a simple window of tkinter in linux like this :
 <img src="/assets/img/post_img/sample.png">
+
+### Code explained
+* `import tkinter as tk` : This line includes tkinter module.   
+* `window = tk.Tk()` : Inishalizes the window of tkinter.  
+* `tk.mainloop()` : The event loop, it will create a window of tkinter and do like the stuff said before this loop.  
+
+This is all in this blog.   
+In next blog on this [Make your jekyll site]({% link /categories/tkinter/ %}) we are doing something for our calculator app.  

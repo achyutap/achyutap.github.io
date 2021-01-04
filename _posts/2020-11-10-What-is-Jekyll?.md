@@ -1,7 +1,7 @@
 ---
 title: What is Jekyll?
 author: Achyuta Pataki
-date: 2021-1-01 21:15:00 +530
+date: 2020-12-29 21:15:00 +530
 categories: [Jekyll]
 tags: [jekyll]
 math: true

@@ -1,11 +1,10 @@
 ---
 title: Data types of C
 author: Achyuta Pataki
-date: 2020-12-26 13:22:00 +0530
+date: 2020-12-28 13:22:00 +0530
 categories: [C-programing, Programming Languages]
 tags: [basic-c,data-types]
 math: true
-pin: true
 ---
 
 Hello there I am Achyuta, today we are talking about **C programing language**. This is the first part of *c*.
