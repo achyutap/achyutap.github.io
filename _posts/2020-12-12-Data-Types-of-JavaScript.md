@@ -23,7 +23,7 @@ let age  = 20 ;
 All variables should declared using the key word `let` like `let a="rohit";`.First the keyword `var` is used for declaring the variables.
 All data types are declared from `let` keyword.
 ## Data Types
-### 1. Numbers
+### Numbers
 Numbers can be decimal or non decimal.You can do operations on them using there variable.
 #### Table contaning oparators of javascript
 <table>
@@ -61,7 +61,7 @@ Numbers can be decimal or non decimal.You can do operations on them using there 
   </tr>
 </table>
 
-### 2. Strings
+### Strings
 Strings can be defined in double cotes (`""`) or single(`''`).
 If you try for for:
 ``` js 
@@ -71,7 +71,7 @@ let c = a + b;
 ```
 Then the answer will be `20he`.What? Yes thats right Js engin treats the variable a as a string and concatnate them.
 
-### 3. Booleans
+### Booleans
 Booleans have only two values `true` and `false`.Only two no more.
 if you think like a variable `a = 20 and b = 20` if you write `c = a == b` then the value would be `true` a boolean value.
 

@@ -38,7 +38,11 @@ In python 3.8 it is going to work, what it does is create a simple window of tki
 * `window = tk.Tk()` : Inishalizes the window of tkinter.  
 * `tk.mainloop()` : The event loop, it will create a window of tkinter and do like the stuff said before this loop.  
 
-This is all in this blog.   
-In next blog on this section we are doing something for our calculator app.  
+Thats all for this blog.
+In next blog on this section we are doing something for our calculator app.
 
-*If you want to see all blog posts on this section goto categories and open Calculator category in Tkinter category.*
+*If you want to see all blog posts on this section goto categories and open Calculator category in Tkinter category.*s
+
+
+
+
