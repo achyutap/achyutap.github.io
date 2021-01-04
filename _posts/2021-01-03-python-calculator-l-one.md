@@ -35,7 +35,6 @@ In python 3.8 it is going to work, what it does is create a simple window of tki
 
 ### Code explained
 * `import tkinter as tk` : This line includes tkinter module.   
-* 
 * `window = tk.Tk()` : Inishalizes the window of tkinter.  
 * `tk.mainloop()` : The event loop, it will create a window of tkinter and do like the stuff said before this loop.  
 
