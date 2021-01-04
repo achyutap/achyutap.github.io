@@ -39,4 +39,4 @@ In python 3.8 it is going to work, what it does is create a simple window of tki
 * `tk.mainloop()` : The event loop, it will create a window of tkinter and do like the stuff said before this loop.  
 
 This is all in this blog.   
-In next blog on this [Make your jekyll site]({% link /categories/tkinter/ %}) we are doing something for our calculator app.  
+In next blog on this section we are doing something for our calculator app.  
