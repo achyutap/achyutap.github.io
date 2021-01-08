@@ -41,7 +41,7 @@ In python 3.8 it is going to work, what it does is create a simple window of tki
 Thats all for this blog.
 In next blog on this section we are learning some important functions of tkinter and a widjet called *Label* something for our calculator app.
 
-*If you want to see all blog posts on this section goto categories and open Calculator category in Tkinter category.*s
+*If you want to see all blog posts on this section goto categories and open Learn category in Tkinter category.*s
 
 
 
