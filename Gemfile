@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", git: "https://github.com/achyutap/achyutap-chirpy-theme"
+gem "jekyll-theme-chirpy", git: "https://github.com/achyutap/achyutap-customised-chirpy-theme"
 
 gem "html-proofer", "~> 5.0", group: :test
 
